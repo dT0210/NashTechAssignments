@@ -118,7 +118,8 @@ namespace Day1 {
                     case 5:
                         HanoiFirstBorn(members);
                         break;
-                }
+                }  
+                Console.Clear();
             } while (choice != 0);
         }
 
@@ -133,7 +134,6 @@ namespace Day1 {
             }
             Console.WriteLine("Press Enter to continue");
             Console.ReadLine();
-            Console.Clear();
         }
 
         static void OldestMember(List<Member> members) {
@@ -149,7 +149,6 @@ namespace Day1 {
             oldest.print();
             Console.WriteLine("Press Enter to continue");
             Console.ReadLine();
-            Console.Clear();
         }
 
         static void FullNameList(List<Member> members) {
@@ -166,7 +165,6 @@ namespace Day1 {
             }
             Console.WriteLine("Press Enter to continue");
             Console.ReadLine();
-            Console.Clear();
         }
 
         static void BirthYearList(List<Member> members) {
@@ -205,7 +203,6 @@ namespace Day1 {
             }
             Console.WriteLine("Press Enter to continue");
             Console.ReadLine();
-            Console.Clear();
         }
 
         static void HanoiFirstBorn(List<Member> members) {
@@ -226,7 +223,6 @@ namespace Day1 {
             
             Console.WriteLine("Press Enter to continue");
             Console.ReadLine();
-            Console.Clear();
         }
     }
 }
