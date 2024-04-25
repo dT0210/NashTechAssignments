@@ -1,0 +1,14 @@
+D:\NashTech\c# fundamentals\assignments\day1\bin\Debug\net8.0\day1.exe
+D:\NashTech\c# fundamentals\assignments\day1\bin\Debug\net8.0\day1.deps.json
+D:\NashTech\c# fundamentals\assignments\day1\bin\Debug\net8.0\day1.runtimeconfig.json
+D:\NashTech\c# fundamentals\assignments\day1\bin\Debug\net8.0\day1.dll
+D:\NashTech\c# fundamentals\assignments\day1\bin\Debug\net8.0\day1.pdb
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\day1.AssemblyInfoInputs.cache
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\day1.AssemblyInfo.cs
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\day1.csproj.CoreCompileInputs.cache
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\day1.dll
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\refint\day1.dll
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\day1.pdb
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\day1.genruntimeconfig.cache
+D:\NashTech\c# fundamentals\assignments\day1\obj\Debug\net8.0\ref\day1.dll
