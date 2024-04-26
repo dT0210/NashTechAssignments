@@ -89,14 +89,13 @@ namespace Day2 {
             int.TryParse(Console.ReadLine(), out int end);
 
             List<Task> taskList = new();
-            
             List<int> primes = new List<int>();
+
             foreach (var i in Enumerable.Range(start, end-start+1)) {
                 taskList.Add(Task.Run(() => {
                     if (IsPrime(i)) primes.Add(i);
                 }));
             }
-            
 
             await Task.WhenAll(taskList);
             foreach (var prime in primes) {
