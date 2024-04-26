@@ -1,0 +1,15 @@
+D:\NashTech\c# fundamentals\assignments\day2\bin\Debug\net8.0\day2.exe
+D:\NashTech\c# fundamentals\assignments\day2\bin\Debug\net8.0\day2.deps.json
+D:\NashTech\c# fundamentals\assignments\day2\bin\Debug\net8.0\day2.runtimeconfig.json
+D:\NashTech\c# fundamentals\assignments\day2\bin\Debug\net8.0\day2.dll
+D:\NashTech\c# fundamentals\assignments\day2\bin\Debug\net8.0\day2.pdb
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.AssemblyInfoInputs.cache
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.AssemblyInfo.cs
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.csproj.CoreCompileInputs.cache
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.sourcelink.json
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.dll
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\refint\day2.dll
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.pdb
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\day2.genruntimeconfig.cache
+D:\NashTech\c# fundamentals\assignments\day2\obj\Debug\net8.0\ref\day2.dll
