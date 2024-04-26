@@ -2,14 +2,21 @@
 
 namespace Day1 {
     class Member {
-        private string firstName;
-        private string lastName;
-        private string gender;
-        private DateTime dob;
-        private string phone;
-        private string birthPlace;
-        private int age;
-        private bool isGraduated;
+        public string firstName {get; set;}
+        public string lastName {get; set;}
+        public string gender {get; set;}
+        private DateTime dob {get; set;}
+        public DateTime DOB {
+            get {return dob;}
+            set {
+                dob = value;
+                age = DateTime.Today.Year - dob.Year;
+            }
+        }
+        public string phone {get; set;}
+        public string birthPlace {get; set;}
+        public int age;
+        public bool isGraduated {get; set;}
 
         public Member(string firstName, string lastName, string gender, DateTime dob, string phone, string birthPlace, bool isGraduated) {
             this.firstName = firstName;
@@ -20,53 +27,6 @@ namespace Day1 {
             this.birthPlace = birthPlace;
             this.isGraduated = isGraduated;
             age = DateTime.Today.Year - dob.Year;
-        }
-
-        public string getFirstName() {
-            return firstName;
-        }
-        public string getLastName() {
-            return lastName;
-        }
-        public string getGender() {
-            return gender;
-        }
-        public DateTime getDOB() {
-            return dob;
-        }
-        public string getPhoneNum() {
-            return phone;
-        }
-        public string getBirthPlace() {
-            return birthPlace;
-        }
-        public int getAge() {
-            return age;
-        }
-        public bool getIsGraduated() {
-            return isGraduated;
-        }
-        public void setFirstName(string firstName) {
-            this.firstName = firstName;
-        }
-        public void setLastName(string lastName) {
-            this.lastName = lastName;
-        }
-        public void setGender(string gender) {
-            this.gender = gender;
-        }
-        public void setDOB(DateTime dob) {
-            this.dob = dob;
-            age = DateTime.Today.Year - dob.Year;
-        }
-        public void setPhoneNum(string phone) {
-            this.phone = phone;
-        }
-        public void setBirthPlace(string birthPlace) {
-            this.birthPlace = birthPlace;
-        }
-        public void setIsGraduated(bool isGraduated) {
-            this.isGraduated = isGraduated;
         }
 
         public void print() {
@@ -127,7 +87,7 @@ namespace Day1 {
             Console.WriteLine("This is the male list:");
 
             foreach (Member member in members) {
-                if (member.getGender() == "male") {
+                if (member.gender == "male") {
                     member.print();
                     Console.WriteLine();
                 }
@@ -140,7 +100,7 @@ namespace Day1 {
             Member oldest = members[0];
 
             for (int i = 1; i < members.Count(); i++) {
-                if (members[i].getDOB() < oldest.getDOB()) {
+                if (members[i].DOB < oldest.DOB) {
                     oldest = members[i];
                 }
             }
@@ -154,13 +114,13 @@ namespace Day1 {
         static void FullNameList(List<Member> members) {
             Console.WriteLine("This is the full name list:");
             foreach (Member member in members) {
-                Console.WriteLine("Full name: " + member.getFirstName() + " " + member.getLastName());
-                Console.WriteLine("Gender: " + member.getGender());
-                Console.WriteLine("Date of birth: " + member.getDOB().ToString("yyyy/MM/dd"));
-                Console.WriteLine("Phone number: " + member.getPhoneNum());
-                Console.WriteLine("Birth place: " + member.getBirthPlace());
-                Console.WriteLine("Age: " + member.getAge());
-                Console.WriteLine("Is graduated: " + (member.getIsGraduated() ? "Yes" : "No"));
+                Console.WriteLine("Full name: " + member.firstName + " " + member.lastName);
+                Console.WriteLine("Gender: " + member.gender);
+                Console.WriteLine("Date of birth: " + member.DOB.ToString("yyyy/MM/dd"));
+                Console.WriteLine("Phone number: " + member.phone);
+                Console.WriteLine("Birth place: " + member.birthPlace);
+                Console.WriteLine("Age: " + member.age);
+                Console.WriteLine("Is graduated: " + (member.isGraduated ? "Yes" : "No"));
                 Console.WriteLine();
             }
             Console.WriteLine("Press Enter to continue");
@@ -173,7 +133,7 @@ namespace Day1 {
             List<Member> under2k = new List<Member>();
 
             foreach (Member member in members) {
-                switch (member.getDOB().Year) {
+                switch (member.DOB.Year) {
                     case 2000:
                         equal2k.Add(member);
                         break;
@@ -207,10 +167,10 @@ namespace Day1 {
 
         static void HanoiFirstBorn(List<Member> members) {
             Console.WriteLine("This is the first member who was born in Ha Noi");
-            Member oldest = null;
+            Member? oldest = null;
             foreach (Member member in members) {
-                if (member.getBirthPlace() == "Ha Noi") {
-                    if (oldest == null || member.getDOB() < oldest.getDOB()) {
+                if (member.birthPlace == "Ha Noi") {
+                    if (oldest == null || member.DOB < oldest.DOB) {
                         oldest = member;
                     }
                 }
