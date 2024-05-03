@@ -1,0 +1,62 @@
+16:13:39
+schema: http
+host: localhost:5170
+path: /
+queryString: ?name=thanh&age=22
+requestBody: 
+
+21:07:03
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: 
+
+21:07:26
+schema: http
+host: localhost:5170
+path: /
+queryString: ?name=thanh&role=intern
+requestBody: 
+
+21:07:59
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: ----------------------------784452563972923960362278
+Content-Disposition: form-data; name="name"
+
+thanh
+----------------------------784452563972923960362278
+Content-Disposition: form-data; name="role"
+
+intern
+----------------------------784452563972923960362278--
+
+
+21:19:48
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: ----------------------------013572210724604716175132
+Content-Disposition: form-data; name="name"
+
+thanh
+----------------------------013572210724604716175132
+Content-Disposition: form-data; name="role"
+
+intern
+----------------------------013572210724604716175132--
+
+
+21:31:39
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: name: thanh
+role: intern
+
+
