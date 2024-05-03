@@ -1,0 +1,83 @@
+12:47:28
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: ----------------------------540496996861053946073421
+Content-Disposition: form-data; name="name"
+
+thanh
+----------------------------540496996861053946073421
+Content-Disposition: form-data; name="role"
+
+intern
+----------------------------540496996861053946073421--
+
+
+12:49:12
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: ----------------------------186052538178450396344004
+Content-Disposition: form-data; name="name"
+
+thanh
+----------------------------186052538178450396344004
+Content-Disposition: form-data; name="role"
+
+intern
+----------------------------186052538178450396344004--
+
+
+12:49:34
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: ----------------------------721344894460958795336615
+Content-Disposition: form-data; name="name"
+
+thanh
+----------------------------721344894460958795336615
+Content-Disposition: form-data; name="role"
+
+intern
+----------------------------721344894460958795336615--
+
+
+12:50:48
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: 
+
+12:51:53
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: 
+
+12:51:53
+schema: http
+host: localhost:5170
+path: /favicon.ico
+queryString: 
+requestBody: 
+
+12:52:09
+schema: http
+host: localhost:5170
+path: /
+queryString: 
+requestBody: 
+
+12:52:30
+schema: http
+host: localhost:5170
+path: /PostSomething
+queryString: 
+requestBody: 
+

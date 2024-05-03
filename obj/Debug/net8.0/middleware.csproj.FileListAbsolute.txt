@@ -23,3 +23,4 @@ D:\NashTech\.net core fundamentals\assignments\middleware\obj\Debug\net8.0\refin
 D:\NashTech\.net core fundamentals\assignments\middleware\obj\Debug\net8.0\middleware.pdb
 D:\NashTech\.net core fundamentals\assignments\middleware\obj\Debug\net8.0\middleware.genruntimeconfig.cache
 D:\NashTech\.net core fundamentals\assignments\middleware\obj\Debug\net8.0\ref\middleware.dll
+D:\NashTech\.net core fundamentals\assignments\middleware\obj\Debug\net8.0\middleware.sourcelink.json

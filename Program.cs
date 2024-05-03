@@ -7,8 +7,10 @@ var app = builder.Build();
 
 app.UseLogging();
 
-app.MapGet("/", () => "Get api has been called");
+app.MapGet("/", () => "Hello world");
 
-app.MapPost("/", () => "Post api has been called.");
+app.MapGet("/GetSomething", () => {return Results.Ok("Get api was called");});
+
+app.MapPost("/PostSomething", () => {return Results.Accepted();});
 
 app.Run();
