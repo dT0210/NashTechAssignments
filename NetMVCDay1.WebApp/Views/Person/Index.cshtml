@@ -1,0 +1,13 @@
+@model NetMVCDay1.Models.Models.Person
+@{
+    ViewData["Title"] = "Person Index";
+}
+
+<h2>Person Index</h2>
+
+<p>.Net MVC Assignments Day 1</p>
+<p><a asp-controller="Person" asp-action="GetMaleList">1. Action to return a list of members who is Male</a></p>
+<p><a asp-controller="Person" asp-action="GetOldestPerson">2. Action to return the oldest one based on “Age”</a></p>
+<p><a asp-controller="Person" asp-action="GetFullNameList">3. Action to return a new list that contains Full Name only</a></p>
+<p><a asp-controller="Person" asp-action="GetPeopleBasedOnBirthYear">4. Action to redirect to the following actions based on the value provided by end user via Query String</a></p>
+<p><a asp-controller="Person" asp-action="ExportPeopleList">5. Action to return the excel file that contains dummy data of list persons</a></p>

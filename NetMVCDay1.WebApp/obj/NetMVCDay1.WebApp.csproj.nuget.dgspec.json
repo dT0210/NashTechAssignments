@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.WebApp\\NetMVCDay1.WebApp.csproj": {}
+  },
+  "projects": {
+    "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.BusinessLogic\\NetMVCDay1.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.BusinessLogic\\NetMVCDay1.BusinessLogic.csproj",
+        "projectName": "NetMVCDay1.BusinessLogic",
+        "projectPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.BusinessLogic\\NetMVCDay1.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.Models\\NetMVCDay1.Models.csproj": {
+                "projectPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.Models\\NetMVCDay1.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.Models\\NetMVCDay1.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.Models\\NetMVCDay1.Models.csproj",
+        "projectName": "NetMVCDay1.Models",
+        "projectPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.Models\\NetMVCDay1.Models.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.WebApp\\NetMVCDay1.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.WebApp\\NetMVCDay1.WebApp.csproj",
+        "projectName": "NetMVCDay1.WebApp",
+        "projectPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.WebApp\\NetMVCDay1.WebApp.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.BusinessLogic\\NetMVCDay1.BusinessLogic.csproj": {
+                "projectPath": "D:\\NashTech\\.net core mvc\\Assignments\\NetMVCDay1\\NetMVCDay1.BusinessLogic\\NetMVCDay1.BusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

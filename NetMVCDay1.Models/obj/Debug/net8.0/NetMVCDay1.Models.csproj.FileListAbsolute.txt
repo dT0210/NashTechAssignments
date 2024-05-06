@@ -1,0 +1,11 @@
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\bin\Debug\net8.0\NetMVCDay1.Models.deps.json
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\bin\Debug\net8.0\NetMVCDay1.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\bin\Debug\net8.0\NetMVCDay1.Models.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\NetMVCDay1.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\NetMVCDay1.Models.AssemblyInfoInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\NetMVCDay1.Models.AssemblyInfo.cs
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\NetMVCDay1.Models.csproj.CoreCompileInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\NetMVCDay1.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\refint\NetMVCDay1.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\NetMVCDay1.Models.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.Models\obj\Debug\net8.0\ref\NetMVCDay1.Models.dll

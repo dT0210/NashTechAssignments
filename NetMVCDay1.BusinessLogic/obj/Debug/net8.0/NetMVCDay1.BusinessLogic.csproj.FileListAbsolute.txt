@@ -1,0 +1,15 @@
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\bin\Debug\net8.0\NetMVCDay1.BusinessLogic.deps.json
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\bin\Debug\net8.0\NetMVCDay1.BusinessLogic.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\bin\Debug\net8.0\NetMVCDay1.BusinessLogic.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\bin\Debug\net8.0\NetMVCDay1.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\bin\Debug\net8.0\NetMVCDay1.Models.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDay1.BusinessLogic.csproj.AssemblyReference.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDay1.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDay1.BusinessLogic.AssemblyInfoInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDay1.BusinessLogic.AssemblyInfo.cs
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDay1.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDa.E24BE178.Up2Date
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDay1.BusinessLogic.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\refint\NetMVCDay1.BusinessLogic.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\NetMVCDay1.BusinessLogic.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay1\NetMVCDay1.BusinessLogic\obj\Debug\net8.0\ref\NetMVCDay1.BusinessLogic.dll
