@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NetMVCDay2.WebApp.props" />
+</Project>

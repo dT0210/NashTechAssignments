@@ -1,0 +1,17 @@
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.BusinessLogic.deps.json
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.BusinessLogic.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.BusinessLogic.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.Models.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.csproj.AssemblyReference.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.AssemblyInfoInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.AssemblyInfo.cs
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDa.0AAAEB6D.Up2Date
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\refint\NetMVCDay2.BusinessLogic.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\ref\NetMVCDay2.BusinessLogic.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.Shared.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.Shared.pdb

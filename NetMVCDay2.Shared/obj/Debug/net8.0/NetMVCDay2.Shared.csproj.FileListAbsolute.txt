@@ -1,0 +1,11 @@
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\bin\Debug\net8.0\NetMVCDay2.Shared.deps.json
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\bin\Debug\net8.0\NetMVCDay2.Shared.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\bin\Debug\net8.0\NetMVCDay2.Shared.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\NetMVCDay2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\NetMVCDay2.Shared.AssemblyInfoInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\NetMVCDay2.Shared.AssemblyInfo.cs
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\NetMVCDay2.Shared.csproj.CoreCompileInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\NetMVCDay2.Shared.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\refint\NetMVCDay2.Shared.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\NetMVCDay2.Shared.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Shared\obj\Debug\net8.0\ref\NetMVCDay2.Shared.dll

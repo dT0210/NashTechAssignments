@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Full name list";
+}
+
+@model List<string>;
+
+<h2>Full name list</h2>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Full name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count(); i++) {
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@Model[i]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

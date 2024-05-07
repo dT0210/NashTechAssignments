@@ -1,0 +1,9 @@
+@{
+    ViewData["title"] = "Delete";
+}
+<h1>Delete confirmation</h1>
+@if (string.IsNullOrWhiteSpace(ViewBag.DeleteError)) {
+    <h3>@ViewBag.DeleteMessage</h3>
+} else {
+    <h3>@ViewBag.DeleteError</h3>
+}

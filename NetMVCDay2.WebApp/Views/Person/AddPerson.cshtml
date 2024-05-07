@@ -1,0 +1,73 @@
+@model NetMVCDay2.Models.Models.Person
+@{
+    ViewData["Title"] = "Add person";
+}
+<style>
+    .error-message {
+        color: red;
+    }
+</style>
+
+<h2>Add new person</h2>
+<div>
+    @using (Html.BeginForm("AddPerson", "Person", FormMethod.Post)) {
+        <table class="table">
+            <tr>
+                <td>@Html.LabelFor(model => model.FirstName, "First name")</td>
+                <td>
+                    <div>@Html.EditorFor(model => model.FirstName)</div>
+                    <div class="error-message">@Html.ValidationMessageFor(model => model.FirstName)</div>
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(model => model.LastName, "Last name")</td>
+                <td>
+                    <div>@Html.EditorFor(model => model.LastName)</div>
+                    <div class="error-message">@Html.ValidationMessageFor(model => model.LastName)</div>
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(model => model.Gender)</td>
+                <td>
+                    <div>@Html.DropDownListFor(model => model.Gender, (SelectList)ViewBag.Gender, "Select Gender")</div>
+                    <div class="error-message">@Html.ValidationMessageFor(model => model.Gender)</div>
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(model => model.DateOfBirth, "Date of birth")</td>
+                <td>
+                    <div>@Html.EditorFor(model => model.DateOfBirth, new {type = "date"})</div>
+                    <div class="error-message">@Html.ValidationMessageFor(model => model.DateOfBirth)</div>
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(model => model.PhoneNumber, "Phone number")</td>
+                <td>
+                    <div>@Html.EditorFor(model => model.PhoneNumber)</div>
+                    <div class="error-message">@Html.ValidationMessageFor(model => model.PhoneNumber)</div>
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(model => model.BirthPlace, "Birth place")</td>
+                <td>
+                    <div>@Html.EditorFor(model => model.BirthPlace)</div>
+                    <div class="error-message">@Html.ValidationMessageFor(model => model.BirthPlace)</div>
+                </td>
+            </tr>
+            <tr>
+                <td><label>Is graduated?</label></td>
+                <td>
+                    <div>
+                        @Html.RadioButtonFor(model => model.IsGraduated, true, new { id = "Yes" })
+                        <label for="Yes">Yes</label>
+                        @Html.RadioButtonFor(model => model.IsGraduated, false, new { id = "No" })
+                        <label for="No">No</label>
+                    </div>
+                    <div class="error-message">@Html.ValidationMessageFor(model => model.IsGraduated)</div>
+                    
+                </td>
+            </tr>
+        </table>
+        <button type="submit" class="btn btn-primary">Add</button>
+    }
+</div>
