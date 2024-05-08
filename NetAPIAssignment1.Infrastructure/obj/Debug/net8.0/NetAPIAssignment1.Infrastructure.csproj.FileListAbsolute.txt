@@ -1,0 +1,11 @@
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\bin\Debug\net8.0\NetAPIAssignment1.Infrastructure.deps.json
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\bin\Debug\net8.0\NetAPIAssignment1.Infrastructure.dll
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\bin\Debug\net8.0\NetAPIAssignment1.Infrastructure.pdb
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\NetAPIAssignment1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\NetAPIAssignment1.Infrastructure.AssemblyInfoInputs.cache
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\NetAPIAssignment1.Infrastructure.AssemblyInfo.cs
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\NetAPIAssignment1.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\NetAPIAssignment1.Infrastructure.dll
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\refint\NetAPIAssignment1.Infrastructure.dll
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\NetAPIAssignment1.Infrastructure.pdb
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.Infrastructure\obj\Debug\net8.0\ref\NetAPIAssignment1.Infrastructure.dll

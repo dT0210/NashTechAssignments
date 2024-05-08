@@ -1,0 +1,22 @@
+[
+    {
+      "id": "4e1df692-4f26-459d-ab29-10e393820d1d",
+      "title": ".Net API Assignments Day 1",
+      "completed": false
+    },
+    {
+      "id": "dd3a19bd-7eaf-46a6-9df9-191605cd9ae6",
+      "title": ".Net API Assignments Day 2",
+      "completed": false
+    },
+    {
+      "id": "e5808a21-4bca-4a6d-8118-75f1a762344b",
+      "title": "Exercise",
+      "completed": false
+    },
+    {
+      "id": "57ee8532-b8c5-451e-869e-7205f15347c4",
+      "title": "Finish the final project",
+      "completed": false
+    }
+  ]
