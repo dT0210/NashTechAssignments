@@ -140,7 +140,7 @@ public class PersonController : Controller {
     [HttpGet]
     public ViewResult EditPerson(Guid id) {
         GenderDropDown();
-        Person person = _personBusinessLogic.GetPersonById(id);
+        Person? person = _personBusinessLogic.GetPersonById(id);
         if (person == null)
             return View("NotFound");
         return View(person);
