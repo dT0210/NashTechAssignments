@@ -15,3 +15,4 @@ D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\De
 D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\ref\NetMVCDay2.BusinessLogic.dll
 D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.Shared.dll
 D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\bin\Debug\net8.0\NetMVCDay2.Shared.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.BusinessLogic\obj\Debug\net8.0\NetMVCDay2.BusinessLogic.sourcelink.json

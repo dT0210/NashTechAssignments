@@ -1,6 +1,6 @@
 @model NetMVCDay2.Models.Models.Person
 @{
-    ViewData["Title"] = "Add person";
+    ViewData["Title"] = "Edit person";
 }
 <style>
     .error-message {
@@ -8,7 +8,7 @@
     }
 </style>
 
-<h2>Add new person</h2>
+<h2>Edit new person</h2>
 <div>
     @using (Html.BeginForm("EditPerson", "Person", FormMethod.Post)) {
         <table class="table">
@@ -68,6 +68,6 @@
                 </td>
             </tr>
         </table>
-        <button type="submit" class="btn btn-primary">Save</button>
+        <button type="submit" class="btn btn-primary" onclick="return confirm('Are you sure?')">Save</button>
     }
 </div>

@@ -13,3 +13,4 @@ D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\bin\Debug\net
 D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Shared.pdb
 D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.csproj.AssemblyReference.cache
 D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDa.96A01007.Up2Date
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.sourcelink.json
