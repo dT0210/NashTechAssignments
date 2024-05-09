@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetAPIAssignment2.Infrastructure/1.0.0": {
+        "dependencies": {
+          "NetAPIAssignment2.Shared": "1.0.0"
+        },
+        "runtime": {
+          "NetAPIAssignment2.Infrastructure.dll": {}
+        }
+      },
+      "NetAPIAssignment2.Shared/1.0.0": {
+        "runtime": {
+          "NetAPIAssignment2.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetAPIAssignment2.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetAPIAssignment2.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

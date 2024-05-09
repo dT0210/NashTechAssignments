@@ -1,0 +1,11 @@
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\bin\Debug\net8.0\NetAPIAssignment2.Shared.deps.json
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\bin\Debug\net8.0\NetAPIAssignment2.Shared.dll
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\bin\Debug\net8.0\NetAPIAssignment2.Shared.pdb
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\NetAPIAssignment2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\NetAPIAssignment2.Shared.AssemblyInfoInputs.cache
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\NetAPIAssignment2.Shared.AssemblyInfo.cs
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\NetAPIAssignment2.Shared.csproj.CoreCompileInputs.cache
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\NetAPIAssignment2.Shared.dll
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\refint\NetAPIAssignment2.Shared.dll
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\NetAPIAssignment2.Shared.pdb
+D:\NashTech\.net api\assignments\NetAPIAssignment2\NetAPIAssignment2.Shared\obj\Debug\net8.0\ref\NetAPIAssignment2.Shared.dll
