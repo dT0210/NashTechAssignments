@@ -14,7 +14,7 @@ public class PersonRequestModel {
     public GenderType Gender {get; set;}
 
     [Required]
-    //the date string have to look like this 2002-12-31, the month is 01-12 and day is 01-31
+    //the date string have to look like this 2002-12-31, the month is 01-12 and day is 01-31, will throw an exception if it's invalid like febuary 31
     [RegularExpression(@"^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$")] 
     public string DateOfBirth {get; set;}
 
