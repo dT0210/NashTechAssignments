@@ -95,6 +95,7 @@ public class TaskController : ControllerBase {
             return StatusCode(StatusCodes.Status500InternalServerError, "Error creating bulk tasks");
         }
     }
+    [HttpDelete]
     public IActionResult DeleteBulkTasks([FromBody] List<Guid> ids) {
         try {
             foreach (Guid id in ids) {

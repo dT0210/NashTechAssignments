@@ -32,3 +32,4 @@ D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.WebAPI\obj\
 D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.WebAPI\obj\Debug\net8.0\NetAPIAssignment1.WebAPI.pdb
 D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.WebAPI\obj\Debug\net8.0\NetAPIAssignment1.WebAPI.genruntimeconfig.cache
 D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.WebAPI\obj\Debug\net8.0\ref\NetAPIAssignment1.WebAPI.dll
+D:\NashTech\.net api\assignments\NetAPIAssignment1\NetAPIAssignment1.WebAPI\obj\Debug\net8.0\NetAPIAssignment1.WebAPI.sourcelink.json
