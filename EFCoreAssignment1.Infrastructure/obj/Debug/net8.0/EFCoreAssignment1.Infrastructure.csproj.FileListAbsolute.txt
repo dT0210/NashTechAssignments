@@ -1,0 +1,14 @@
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\bin\Debug\net8.0\EFCoreAssignment1.Infrastructure.deps.json
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\bin\Debug\net8.0\EFCoreAssignment1.Infrastructure.runtimeconfig.json
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\bin\Debug\net8.0\EFCoreAssignment1.Infrastructure.dll
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\bin\Debug\net8.0\EFCoreAssignment1.Infrastructure.pdb
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.csproj.AssemblyReference.cache
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.AssemblyInfoInputs.cache
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.AssemblyInfo.cs
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.dll
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\refint\EFCoreAssignment1.Infrastructure.dll
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.pdb
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\EFCoreAssignment1.Infrastructure.genruntimeconfig.cache
+D:\NashTech\EF Core\assignments\EFCoreAssignment1\EFCoreAssignment1.Infrastructure\obj\Debug\net8.0\ref\EFCoreAssignment1.Infrastructure.dll
