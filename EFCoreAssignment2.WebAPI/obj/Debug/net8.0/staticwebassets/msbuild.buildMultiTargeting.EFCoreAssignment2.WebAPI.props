@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFCoreAssignment2.WebAPI.props" />
+</Project>
