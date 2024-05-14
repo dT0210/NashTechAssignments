@@ -1,0 +1,31 @@
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Models.deps.json
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Models.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.AssemblyInfoInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.AssemblyInfo.cs
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.csproj.CoreCompileInputs.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\refint\NetMVCDay2.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\ref\NetMVCDay2.Models.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Shared.dll
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Shared.pdb
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.csproj.AssemblyReference.cache
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDa.96A01007.Up2Date
+D:\NashTech\.net core mvc\Assignments\NetMVCDay2\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.sourcelink.json
+D:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Models.deps.json
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Models.dll
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Models.pdb
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Shared.dll
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\bin\Debug\net8.0\NetMVCDay2.Shared.pdb
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.csproj.AssemblyReference.cache
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.GeneratedMSBuildEditorConfig.editorconfig
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.AssemblyInfoInputs.cache
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.AssemblyInfo.cs
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.csproj.CoreCompileInputs.cache
+D:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDa.96A01007.Up2Date
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.dll
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\refint\NetMVCDay2.Models.dll
+d:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\NetMVCDay2.Models.pdb
+D:\NashTech\Unit Testing\assignments\NetMVCDay2.Models\obj\Debug\net8.0\ref\NetMVCDay2.Models.dll

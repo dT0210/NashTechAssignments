@@ -1,0 +1,60 @@
+@model IEnumerable<NetMVCDay2.Models.Models.Person>
+
+@{
+    ViewData["Title"] = "Three lists";
+}
+
+<h2 style="margin-bottom: 10px;">List of people based on birth year</h2>
+
+<div>
+    @using (Html.BeginForm("GetPeopleBasedOnBirthYear", "Person", FormMethod.Get)) {
+        <div>
+            <label>Year</label>
+            @Html.TextBox("BirthYear", null, new { type = "number", required = "required" })
+        </div>
+        <div style="margin-top: 12px; margin-bottom: 12px; display: flex; gap: 10px;">
+            <div>
+                @Html.RadioButton("Comparison", "Equal", new { id = "Equal", required="required" })
+                <label for="Equal">Equal</label>
+            </div>
+            <div>
+                @Html.RadioButton("Comparison", "Greater", new { id = "Greater" })
+                <label for="Greater">Greater</label>
+            </div>
+            <div>
+                @Html.RadioButton("Comparison", "Less", new { id = "Less" })
+                <label for="Less">Less</label>
+            </div>
+        </div>
+        <button class="btn btn-primary" type="submit" style="margin-top: 10px;">Confirm</button>
+    }
+    <table class="table">
+        <thead>
+            <tr>
+                <th>First name</th>
+                <th>Last name</th>
+                <th>Gender</th>
+                <th>Date of birth</th>
+                <th>Phone number</th>
+                <th>Birth place</th>
+                <th>Is graduated</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var person in Model) {
+                <tr>
+                    <td>@person.FirstName</td>
+                    <td>@person.LastName</td>
+                    <td>@person.Gender</td>
+                    <td>@person.DateOfBirth</td>
+                    <td>@person.PhoneNumber</td>
+                    <td>@person.BirthPlace</td>
+                    <td>@(person.IsGraduated ? "Yes" : "No")</td>
+                    <td><a class="btn btn-secondary" target="_blank" asp-controller="Person" asp-action="GetPersonDetails">Details</a></td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>

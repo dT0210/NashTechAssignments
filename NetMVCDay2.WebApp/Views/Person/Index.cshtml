@@ -1,0 +1,62 @@
+@model IEnumerable<NetMVCDay2.Models.Models.Person>
+
+@{
+    ViewData["Title"] = "All people list";
+}
+
+<div>
+    <div class="d-flex justify-content-between align-items-center">
+        <h2>All people list</h2>
+        <div><a class="btn btn-primary" asp-controller="Person" asp-action="AddPerson" target="_blank">Add person</a></div>
+    </div>
+    <div>
+        @using (Html.BeginForm("Index", "Person", FormMethod.Get, new { @class = "filter-form", style = "display: flex; gap: 12px" })) {
+            <div>
+                <label for="gender">Filter by Gender</label>
+                @Html.DropDownList("Gender", (SelectList)ViewBag.Gender, "Select Gender", new { onchange = "form.submit();" })
+            </div>
+            <div>
+                <label for="sortByDesc">Sort by Age</label>
+                @Html.DropDownList("SortByDesc", (SelectList)ViewBag.SortBy, "Sort by", new { onchange = "form.submit();" })
+            </div>
+        }
+    </div>
+    
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>First name</th>
+                    <th>Last name</th>
+                    <th>Gender</th>
+                    <th>Date of birth</th>
+                    <th>Phone number</th>
+                    <th>Birth place</th>
+                    <th>Is graduated</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Any()) {
+                    @foreach (var person in Model) {
+                        <tr>
+                            <td>
+                                @Html.ActionLink(person.FirstName, "GetPersonDetails", "Person", new { id = person.Id })
+                            </td>
+                            <td>@person.LastName</td>
+                            <td>@person.Gender</td>
+                            <td>@person.DateOfBirth</td>
+                            <td>@person.PhoneNumber</td>
+                            <td>@person.BirthPlace</td>
+                            <td>@(person.IsGraduated ? "Yes" : "No")</td>
+                            <td>@Html.ActionLink("Edit", "EditPerson", "Person", new { id = person.Id }, new {@class = "btn btn-primary"})</td>
+                        </tr>
+                    }
+                }
+                
+            </tbody>
+
+        </table>
+    </div>
+
+</div>

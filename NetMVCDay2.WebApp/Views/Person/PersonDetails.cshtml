@@ -1,0 +1,54 @@
+@model NetMVCDay2.Models.Models.Person
+
+@{
+    ViewData["Title"] = "Personal details";
+}
+
+<h2>Details</h2>
+<table class="table">
+    <tr>
+        <td>@Html.LabelFor(model => model.FirstName)</td>
+        <td>
+            <div>@Html.DisplayFor(model => model.FirstName)</div>
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.LastName)</td>
+        <td>
+            <div>@Html.DisplayFor(model => model.LastName)</div>
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.Gender)</td>
+        <td>
+            <div>@Html.DisplayFor(model => model.Gender)</div>
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.DateOfBirth)</td>
+        <td>
+            <div>@Html.DisplayFor(model => model.DateOfBirth, new {type = "date"})</div>
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.PhoneNumber)</td>
+        <td>
+            <div>@Html.DisplayFor(model => model.PhoneNumber)</div>
+        </td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.BirthPlace)</td>
+        <td>
+            <div>@Html.DisplayFor(model => model.BirthPlace)</div>
+        </td>
+    </tr>
+    <tr>
+        <td><label>Is graduated?</label></td>
+        <td>@(Model.IsGraduated ? "Yes" : "No")</td>
+    </tr>
+</table>
+@Html.ActionLink("Edit", "EditPerson", "Person", new { id = Model.Id }, new {@class = "btn btn-primary", style="margin-bottom:10px;"})
+@using (Html.BeginForm("DeletePerson", "Person", FormMethod.Post)) {
+    <input type="hidden" name="id" value="@Model.Id"/>
+    <button class="btn btn-primary" type="submit" onclick="return confirm('Are you sure?')">Delete</button>
+}
